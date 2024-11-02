@@ -39,6 +39,6 @@ To install and run this project, follow these steps:
 2. Managers can log in to manage bookings and create posts.
 3. Admins can log in to manage the system and create manager accounts.
 
-## License
+## Copyright
 
 Copyright belongs to Cheat Premium.
